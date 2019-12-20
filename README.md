@@ -1,0 +1,2 @@
+# KotlinAPIExample
+Kotlinを利用してAPIを叩く練習コード
